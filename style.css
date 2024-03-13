@@ -17,3 +17,10 @@
   outline: none !important;
   box-shadow: none !important;
 }
+
+
+@media (max-width: 576px) {
+  .navbar-collapse {
+    text-align: center;
+  }
+}
